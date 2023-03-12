@@ -1,0 +1,15 @@
+# pip3 install --pre torch --index-url https://download.pytorch.org/whl/nightly/cpu
+# 
+
+numpy
+matplotlib
+wandb
+
+"gymnasium[box2d]"
+
+gym-anytrading
+gym-mtsim
+mobile-env
+
+mbrl
+d3rlpy
