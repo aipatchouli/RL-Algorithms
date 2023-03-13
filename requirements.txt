@@ -12,6 +12,7 @@ gym-anytrading
 mobile-env
 
 # model based
-mbrl
-# offline rl
-d3rlpy
+# mbrl
+
+# offline rl with torch==1.6.0
+# d3rlpy 
