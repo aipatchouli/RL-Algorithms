@@ -4,6 +4,9 @@ dm-haiku
 optax
 rlax
 
+bsuite
+scikit-learn
+
 numpy
 matplotlib
 wandb
