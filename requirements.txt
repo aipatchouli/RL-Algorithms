@@ -7,11 +7,14 @@ rlax
 bsuite
 scikit-learn
 
+ml-collections
+tensorboardX
 numpy
 matplotlib
 wandb
 tqdm
 
+dm_control
 swig
 Box2D
 
